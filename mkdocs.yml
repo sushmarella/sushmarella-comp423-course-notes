@@ -1,3 +1,12 @@
 site_name: COMP423 Course Notes
 theme:
   name: material
+markdown_extensions:
+  - pymdownx.highlight:  # Enables syntax highlighting for code blocks
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite  # Allows inline code highlighting
+  - pymdownx.snippets  # Allows embedding external files
+  - pymdownx.superfences  # More powerful code blocks, supports nested blocks within lists/admonitions
+  - pymdownx.admonition  # Enables admonitions
