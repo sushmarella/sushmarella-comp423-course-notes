@@ -2,7 +2,7 @@
 * Primary author: Sushant Marella (https://github.com/sushmarella)
 * Reviewer: Aidan Lee (https://github.com/aidanjlee5)
 
-Create a New Go Project
+git Create a New Go Project
 
 In a terminal (on your **host machine**, not inside a container), create a folder for your Go project. This folder will house your code and Dev Container configurations:
 
