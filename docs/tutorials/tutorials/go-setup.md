@@ -27,7 +27,7 @@ git init
 Create a README file: 
 
 ```
-echo"COMP423 Go Tutorial: https://github.com/<your-username>/comp423-course-notes" > README.md
+echo "COMP423 Go Tutorial: "https://sushmarella.github.io/sushmarella-comp423-course-notes/tutorials/go-setup/" > README.md
 ```
 
 ## 3. Dev Container Configuration
