@@ -154,7 +154,8 @@ git add .
 git commit -m "Initial Go Dev Container setup"
 ```
 
-Push to GitHub if you have a remote set up:
+Assuming your branch is named main (git branch -M main will ensure this), push to GitHub with a remote repo set up (initialize the repo without a README.md):
+
 
 ```bash
 git remote add origin <your-repo-url>
