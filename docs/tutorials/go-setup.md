@@ -2,7 +2,7 @@
 * Primary author: Sushant Marella (https://github.com/sushmarella)
 * Reviewer: Aidan Lee (https://github.com/aidanjlee5)
 
-git Create a New Go Project
+Create a New Go Project
 
 In a terminal (on your **host machine**, not inside a container), create a folder for your Go project. This folder will house your code and Dev Container configurations:
 
@@ -29,7 +29,7 @@ Create a README file:
 ```
 echo "COMP423 Go Tutorial: https://sushmarella.github.io/sushmarella-comp423-course-notes/tutorials/go-setup/" > README.md
 ```
-git
+
 ## 3. Dev Container Configuration
 
 Inside `hello-go`, create a hidden folder named `.devcontainer` and a file named `devcontainer.json`:
